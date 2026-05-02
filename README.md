@@ -28,6 +28,7 @@ python vsr_preprocess.py
    - Masking: Mask `2` of `16` partitions in masked frames to the mean or `0`.
 
 ## Data Links
+OUtput links for processed data in the end of pipeline that are used in trainings are following:
 | Description | Link |
 |-------------|------|
 | Baseline    | [https://drive.google.com/file/d/1RkcIzaHbH3hNJKAfyvMouUdGnd56nrsW/view?usp=sharing](https://drive.google.com/file/d/1RkcIzaHbH3hNJKAfyvMouUdGnd56nrsW/view?usp=sharing) |
