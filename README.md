@@ -8,10 +8,9 @@ To download the input video, use the following command:
 ```
 
 ## Running the Python Preprocessing Script
-Users should execute the preprocessing Python script in the repository. Replace `script_name.py` with the actual script name:
 
 ```bash
-python script_name.py
+python vsr_preprocess.py
 ```
 
 ## Preprocessing Tracks
