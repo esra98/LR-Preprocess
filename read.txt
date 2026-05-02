@@ -1,0 +1,32 @@
+// DOWNLOAD LINKS
+
+
+
+1. Adaptive Contrast Track (CLAHE):
+
+    Logic: Implement Contrast Limited Adaptive Histogram Equalization to solve intra-mouth illumination variance, which is a primary bottleneck for Turkish vowel rounding (e.g., distinguishing 'u' from 'ü').
+
+    Academic Standard: Referencing Sensors (MDPI), 2025 standards for image enhancement in deep learning.
+
+    Parameters: Use clipLimit=2.0 and tileGridSize=(8,8). Apply to the grayscale version of the 224×224 face.
+
+2. Geometric Normalization Track (Procrustes Alignment):
+
+    Logic: Use a landmark-based Similarity Transformation (Procrustes Analysis) to remove head-tilt and scale variance. This ensures "frontalization" so the 3D-CNN/Transformer can focus on non-rigid lip motion rather than rigid head pose.
+
+    Academic Standard: Consistent with IEEE TPAMI (2025) and BYU Scholars (2026) VSR normalization protocols.
+
+    Parameters: Use MediaPipe Face Mesh to extract 468 landmarks. Align the face to a canonical template where the eyes are perfectly horizontal and the mouth center is anchored at (112,160). Use cv2.getSimilarityTransform (or cv2.estimateAffinePartial2D) to warp the image.
+
+3. Partition-Time Masking (PTM) Track:
+
+    Logic: Implement a spatiotemporal data augmentation that prevents "shortcut learning" (relying on speaker identity). By masking parts of the lip ROI over time, the model is forced to learn the temporal dynamics of visemes.
+
+    Academic Standard: Based on the PTM Method from "A Novel Approach for VSR Using Partition-Time Masking," Sensors 2025.
+
+    Parameters: >    - Divide the 224×224 image into a 4×4 spatial grid.
+
+        For a sequence of length T, apply a temporal mask of length τ=αT (where α=0.2).
+
+        Within masked frames, randomly set 2 out of 16 spatial partitions to the sequence mean or black (0).
+

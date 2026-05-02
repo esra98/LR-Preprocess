@@ -1,0 +1,179 @@
+[INFO] 14905 videos / 29810 sidecars / 14 workers
+[sidecar] 5000/29810
+[sidecar] 10000/29810
+[sidecar] 15000/29810
+[sidecar] 20000/29810
+[sidecar] 25000/29810
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1777325147.472772  304879 face_landmarker_graph.cc:174] Sets FaceBlendshapesGraph acceleration to xnnpack by default.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1777325147.499736  304897 face_landmarker_graph.cc:174] Sets FaceBlendshapesGraph acceleration to xnnpack by default.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1777325147.530099  304915 face_landmarker_graph.cc:174] Sets FaceBlendshapesGraph acceleration to xnnpack by default.
+I0000 00:00:1777325147.534938  304879 gl_context_egl.cc:85] Successfully initialized EGL. Major : 1 Minor: 5
+I0000 00:00:1777325147.539675  304937 gl_context.cc:385] GL version: 3.2 (OpenGL ES 3.2 Mesa 25.0.7), renderer: Mesa Intel(R) UHD Graphics (CML GT2)
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+W0000 00:00:1777325147.545020  304882 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+I0000 00:00:1777325147.569206  304897 gl_context_egl.cc:85] Successfully initialized EGL. Major : 1 Minor: 5
+W0000 00:00:1777325147.572538  304888 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+I0000 00:00:1777325147.574415  304942 gl_context.cc:385] GL version: 3.2 (OpenGL ES 3.2 Mesa 25.0.7), renderer: Mesa Intel(R) UHD Graphics (CML GT2)
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+W0000 00:00:1777325147.579642  304900 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1777325147.602200  304943 face_landmarker_graph.cc:174] Sets FaceBlendshapesGraph acceleration to xnnpack by default.
+W0000 00:00:1777325147.607329  304906 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+I0000 00:00:1777325147.611418  304915 gl_context_egl.cc:85] Successfully initialized EGL. Major : 1 Minor: 5
+I0000 00:00:1777325147.616333  304965 gl_context.cc:385] GL version: 3.2 (OpenGL ES 3.2 Mesa 25.0.7), renderer: Mesa Intel(R) UHD Graphics (CML GT2)
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+W0000 00:00:1777325147.622126  304919 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1777325147.648333  304967 face_landmarker_graph.cc:174] Sets FaceBlendshapesGraph acceleration to xnnpack by default.
+W0000 00:00:1777325147.650139  304923 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1777325147.656079  304985 face_landmarker_graph.cc:174] Sets FaceBlendshapesGraph acceleration to xnnpack by default.
+I0000 00:00:1777325147.680155  304943 gl_context_egl.cc:85] Successfully initialized EGL. Major : 1 Minor: 5
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1777325147.688585  305007 face_landmarker_graph.cc:174] Sets FaceBlendshapesGraph acceleration to xnnpack by default.
+I0000 00:00:1777325147.691028  305009 gl_context.cc:385] GL version: 3.2 (OpenGL ES 3.2 Mesa 25.0.7), renderer: Mesa Intel(R) UHD Graphics (CML GT2)
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+W0000 00:00:1777325147.696284  304948 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1777325147.719246  305026 face_landmarker_graph.cc:174] Sets FaceBlendshapesGraph acceleration to xnnpack by default.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1777325147.721828  305030 face_landmarker_graph.cc:174] Sets FaceBlendshapesGraph acceleration to xnnpack by default.
+I0000 00:00:1777325147.722959  304967 gl_context_egl.cc:85] Successfully initialized EGL. Major : 1 Minor: 5
+W0000 00:00:1777325147.723040  304959 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+I0000 00:00:1777325147.727989  305066 gl_context.cc:385] GL version: 3.2 (OpenGL ES 3.2 Mesa 25.0.7), renderer: Mesa Intel(R) UHD Graphics (CML GT2)
+I0000 00:00:1777325147.729467  304985 gl_context_egl.cc:85] Successfully initialized EGL. Major : 1 Minor: 5
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+W0000 00:00:1777325147.735173  304969 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+I0000 00:00:1777325147.735710  305071 gl_context.cc:385] GL version: 3.2 (OpenGL ES 3.2 Mesa 25.0.7), renderer: Mesa Intel(R) UHD Graphics (CML GT2)
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1777325147.736228  305072 face_landmarker_graph.cc:174] Sets FaceBlendshapesGraph acceleration to xnnpack by default.
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+W0000 00:00:1777325147.741445  304988 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1777325147.742731  305075 face_landmarker_graph.cc:174] Sets FaceBlendshapesGraph acceleration to xnnpack by default.
+I0000 00:00:1777325147.758653  305007 gl_context_egl.cc:85] Successfully initialized EGL. Major : 1 Minor: 5
+W0000 00:00:1777325147.760143  304999 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1777325147.761517  305114 face_landmarker_graph.cc:174] Sets FaceBlendshapesGraph acceleration to xnnpack by default.
+W0000 00:00:1777325147.762553  304980 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+I0000 00:00:1777325147.769526  305116 gl_context.cc:385] GL version: 3.2 (OpenGL ES 3.2 Mesa 25.0.7), renderer: Mesa Intel(R) UHD Graphics (CML GT2)
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1777325147.772645  305133 face_landmarker_graph.cc:174] Sets FaceBlendshapesGraph acceleration to xnnpack by default.
+W0000 00:00:1777325147.774599  305011 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+I0000 00:00:1777325147.794248  305030 gl_context_egl.cc:85] Successfully initialized EGL. Major : 1 Minor: 5
+I0000 00:00:1777325147.796735  305026 gl_context_egl.cc:85] Successfully initialized EGL. Major : 1 Minor: 5
+I0000 00:00:1777325147.798654  305159 gl_context.cc:385] GL version: 3.2 (OpenGL ES 3.2 Mesa 25.0.7), renderer: Mesa Intel(R) UHD Graphics (CML GT2)
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+I0000 00:00:1777325147.800721  305161 gl_context.cc:385] GL version: 3.2 (OpenGL ES 3.2 Mesa 25.0.7), renderer: Mesa Intel(R) UHD Graphics (CML GT2)
+W0000 00:00:1777325147.801217  305021 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+W0000 00:00:1777325147.804671  305050 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1777325147.806385  305034 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+I0000 00:00:1777325147.824349  305075 gl_context_egl.cc:85] Successfully initialized EGL. Major : 1 Minor: 5
+I0000 00:00:1777325147.824791  305072 gl_context_egl.cc:85] Successfully initialized EGL. Major : 1 Minor: 5
+I0000 00:00:1777325147.831187  305170 gl_context.cc:385] GL version: 3.2 (OpenGL ES 3.2 Mesa 25.0.7), renderer: Mesa Intel(R) UHD Graphics (CML GT2)
+I0000 00:00:1777325147.831873  305171 gl_context.cc:385] GL version: 3.2 (OpenGL ES 3.2 Mesa 25.0.7), renderer: Mesa Intel(R) UHD Graphics (CML GT2)
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1777325147.832750  305172 face_landmarker_graph.cc:174] Sets FaceBlendshapesGraph acceleration to xnnpack by default.
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+W0000 00:00:1777325147.840063  305062 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1777325147.841467  305094 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1777325147.841764  305047 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1777325147.842776  305077 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+I0000 00:00:1777325147.861004  305114 gl_context_egl.cc:85] Successfully initialized EGL. Major : 1 Minor: 5
+I0000 00:00:1777325147.868573  305133 gl_context_egl.cc:85] Successfully initialized EGL. Major : 1 Minor: 5
+I0000 00:00:1777325147.875498  305197 gl_context.cc:385] GL version: 3.2 (OpenGL ES 3.2 Mesa 25.0.7), renderer: Mesa Intel(R) UHD Graphics (CML GT2)
+INFO: W0000 00:00:1777325147.878981  305107 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+Created TensorFlow Lite XNNPACK delegate for CPU.
+W0000 00:00:1777325147.885102  305086 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+I0000 00:00:1777325147.888026  305200 gl_context.cc:385] GL version: 3.2 (OpenGL ES 3.2 Mesa 25.0.7), renderer: Mesa Intel(R) UHD Graphics (CML GT2)
+W0000 00:00:1777325147.888521  305135 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+W0000 00:00:1777325147.908451  305117 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1777325147.918626  305144 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1777325148.042184  305127 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+I0000 00:00:1777325148.131935  305172 gl_context_egl.cc:85] Successfully initialized EGL. Major : 1 Minor: 5
+I0000 00:00:1777325148.161224  305209 gl_context.cc:385] GL version: 3.2 (OpenGL ES 3.2 Mesa 25.0.7), renderer: Mesa Intel(R) UHD Graphics (CML GT2)
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+W0000 00:00:1777325148.184322  305177 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1777325148.279815  305187 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+[video] 200/14905  fails=0
+[video] 400/14905  fails=0
+[video] 600/14905  fails=0
+[video] 800/14905  fails=0
+[video] 1000/14905  fails=0
+[video] 1200/14905  fails=0
+[video] 1400/14905  fails=0
+[video] 1600/14905  fails=0
+[video] 1800/14905  fails=0
+[video] 2000/14905  fails=0
+[video] 2200/14905  fails=0
+[video] 2400/14905  fails=0
+[video] 2600/14905  fails=0
+[video] 2800/14905  fails=0
+[video] 3000/14905  fails=0
+[video] 3200/14905  fails=0
+[video] 3400/14905  fails=0
+[video] 3600/14905  fails=0
+[video] 3800/14905  fails=0
+[video] 4000/14905  fails=0
+[video] 4200/14905  fails=0
+[video] 4400/14905  fails=0
+[video] 4600/14905  fails=0
+[video] 4800/14905  fails=0
+[video] 5000/14905  fails=0
+[video] 5200/14905  fails=0
+[video] 5400/14905  fails=0
+[video] 5600/14905  fails=0
+[video] 5800/14905  fails=0
+[video] 6000/14905  fails=0
+[video] 6200/14905  fails=0
+[video] 6400/14905  fails=0
+[video] 6600/14905  fails=0
+[video] 6800/14905  fails=0
+[video] 7000/14905  fails=0
+[video] 7200/14905  fails=0
+[video] 7400/14905  fails=0
+[video] 7600/14905  fails=0
+[video] 7800/14905  fails=0
+[video] 8000/14905  fails=0
+[video] 8200/14905  fails=0
+[video] 8400/14905  fails=0
+[video] 8600/14905  fails=0
+[video] 8800/14905  fails=0
+[video] 9000/14905  fails=0
+[video] 9200/14905  fails=0
+[video] 9400/14905  fails=0
+[video] 9600/14905  fails=0
+[video] 9800/14905  fails=0
+[video] 10000/14905  fails=0
+[video] 10200/14905  fails=0
+[video] 10400/14905  fails=0
+[video] 10600/14905  fails=0
+[video] 10800/14905  fails=0
+[video] 11000/14905  fails=0
+[video] 11200/14905  fails=0
+[video] 11400/14905  fails=0
+[video] 11600/14905  fails=0
+[video] 11800/14905  fails=0
+[video] 12000/14905  fails=0
+[video] 12200/14905  fails=0
+[video] 12400/14905  fails=0
+[video] 12600/14905  fails=0
+[video] 12800/14905  fails=0
+[video] 13000/14905  fails=0
+[video] 13200/14905  fails=0
+[video] 13400/14905  fails=0
+[video] 13600/14905  fails=0
+[video] 13800/14905  fails=0
+[video] 14000/14905  fails=0
+[video] 14200/14905  fails=0
+[video] 14400/14905  fails=0
+[video] 14600/14905  fails=0
+[video] 14800/14905  fails=0
+[DONE] videos=14905 fails=0
